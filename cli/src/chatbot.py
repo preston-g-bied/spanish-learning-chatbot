@@ -15,8 +15,8 @@ class SpanishChatbot:
 
     def __init__(self):
         """Initialize the chatbot with vocabulary and dialogue data"""
-        self.vocabulary = load_json_data('data/vocabulary.json')
-        self.dialogues = load_json_data('data/dialogues.json')
+        self.vocabulary = load_json_data('../data/vocabulary.json')
+        self.dialogues = load_json_data('../data/dialogues.json')
         self.quiz_system = QuizSystem(self.vocabulary)
 
     def learn_vocabulary(self):
@@ -70,7 +70,7 @@ class SpanishChatbot:
 
             # display available categories
             print("Choose a category for flashcards:")
-            for i, category in enumerate(self.vocabularu['categories'], 1):
+            for i, category in enumerate(self.vocabulary['categories'], 1):
                 print(f"{i}. {category['display_name']}")
             print(f"{len(self.vocabulary['categories']) + 1}. Return to Main Menu")
 
