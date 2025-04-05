@@ -1,0 +1,127 @@
+{
+    "categories": [
+      {
+        "name": "greetings",
+        "display_name": "Greetings",
+        "words": [
+          {
+            "spanish": "Hola",
+            "english": "Hello",
+            "example": "¡Hola! ¿Cómo estás?",
+            "example_translation": "Hello! How are you?",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Buenos días",
+            "english": "Good morning",
+            "example": "Buenos días, ¿cómo amaneció?",
+            "example_translation": "Good morning, how did you wake up?",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Buenas tardes",
+            "english": "Good afternoon",
+            "example": "Buenas tardes a todos",
+            "example_translation": "Good afternoon everyone",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Buenas noches",
+            "english": "Good evening/night",
+            "example": "Buenas noches, hasta mañana",
+            "example_translation": "Good night, see you tomorrow",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Adiós",
+            "english": "Goodbye",
+            "example": "Adiós, cuídate mucho",
+            "example_translation": "Goodbye, take care",
+            "difficulty": "beginner"
+          }
+        ]
+      },
+      {
+        "name": "common_phrases",
+        "display_name": "Common Phrases",
+        "words": [
+          {
+            "spanish": "Por favor",
+            "english": "Please",
+            "example": "Un café, por favor",
+            "example_translation": "A coffee, please",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Gracias",
+            "english": "Thank you",
+            "example": "Muchas gracias por tu ayuda",
+            "example_translation": "Thank you very much for your help",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "De nada",
+            "english": "You're welcome",
+            "example": "No hay problema, de nada",
+            "example_translation": "No problem, you're welcome",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Lo siento",
+            "english": "I'm sorry",
+            "example": "Lo siento, llegué tarde",
+            "example_translation": "I'm sorry, I arrived late",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "No entiendo",
+            "english": "I don't understand",
+            "example": "Lo siento, no entiendo. ¿Puede repetir?",
+            "example_translation": "Sorry, I don't understand. Can you repeat?",
+            "difficulty": "beginner"
+          }
+        ]
+      },
+      {
+        "name": "food",
+        "display_name": "Food",
+        "words": [
+          {
+            "spanish": "Agua",
+            "english": "Water",
+            "example": "Un vaso de agua, por favor",
+            "example_translation": "A glass of water, please",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Pan",
+            "english": "Bread",
+            "example": "Me gusta el pan fresco",
+            "example_translation": "I like fresh bread",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Queso",
+            "english": "Cheese",
+            "example": "El queso español es muy bueno",
+            "example_translation": "Spanish cheese is very good",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Manzana",
+            "english": "Apple",
+            "example": "Como una manzana cada día",
+            "example_translation": "I eat an apple every day",
+            "difficulty": "beginner"
+          },
+          {
+            "spanish": "Pollo",
+            "english": "Chicken",
+            "example": "El pollo con patatas está delicioso",
+            "example_translation": "The chicken with potatoes is delicious",
+            "difficulty": "beginner"
+          }
+        ]
+      }
+    ]
+  }
