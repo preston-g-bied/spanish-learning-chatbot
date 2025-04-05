@@ -1,70 +1,220 @@
 {
-    "dialogues": [
-      {
-        "title": "Meeting Someone New",
-        "difficulty": "beginner",
-        "exchanges": [
-          {
-            "speaker_a": "¡Hola! Me llamo Carlos. ¿Cómo te llamas?",
-            "translation_a": "Hello! My name is Carlos. What's your name?",
-            "speaker_b": "Hola Carlos. Me llamo Ana. Mucho gusto.",
-            "translation_b": "Hello Carlos. My name is Ana. Nice to meet you."
-          },
-          {
-            "speaker_a": "Mucho gusto, Ana. ¿De dónde eres?",
-            "translation_a": "Nice to meet you, Ana. Where are you from?",
-            "speaker_b": "Soy de México. ¿Y tú?",
-            "translation_b": "I'm from Mexico. And you?"
-          },
-          {
-            "speaker_a": "Soy de España. ¿Cuánto tiempo llevas aquí?",
-            "translation_a": "I'm from Spain. How long have you been here?",
-            "speaker_b": "Llevo dos años aquí. Me gusta mucho.",
-            "translation_b": "I've been here for two years. I like it a lot."
-          },
-          {
-            "speaker_a": "¡Qué bien! Bueno, fue un placer conocerte.",
-            "translation_a": "Great! Well, it was nice meeting you.",
-            "speaker_b": "Igualmente. ¡Hasta luego!",
-            "translation_b": "Likewise. See you later!"
-          }
-        ]
-      },
-      {
-        "title": "Ordering at a Restaurant",
-        "difficulty": "beginner",
-        "exchanges": [
-          {
-            "speaker_a": "Buenas tardes. ¿Tienen una mesa para dos personas?",
-            "translation_a": "Good afternoon. Do you have a table for two people?",
-            "speaker_b": "Sí, por supuesto. Por aquí, por favor.",
-            "translation_b": "Yes, of course. This way, please."
-          },
-          {
-            "speaker_a": "Gracias. ¿Nos puede traer el menú?",
-            "translation_a": "Thank you. Can you bring us the menu?",
-            "speaker_b": "Aquí tienen. ¿Qué desean beber?",
-            "translation_b": "Here you are. What would you like to drink?"
-          },
-          {
-            "speaker_a": "Yo quiero una agua mineral, por favor.",
-            "translation_a": "I would like a mineral water, please.",
-            "speaker_b": "¿Con gas o sin gas?",
-            "translation_b": "Sparkling or still?"
-          },
-          {
-            "speaker_a": "Sin gas, por favor. Y para comer, quisiera la paella.",
-            "translation_a": "Still, please. And to eat, I would like the paella.",
-            "speaker_b": "Excelente elección. ¿Algo más?",
-            "translation_b": "Excellent choice. Anything else?"
-          },
-          {
-            "speaker_a": "No, gracias. Eso es todo por ahora.",
-            "translation_a": "No, thank you. That's all for now.",
-            "speaker_b": "Muy bien. Su orden estará lista en unos minutos.",
-            "translation_b": "Very good. Your order will be ready in a few minutes."
-          }
-        ]
-      }
-    ]
-  }
+  "dialogues": [
+    {
+      "title": "Meeting Someone New",
+      "difficulty": "beginner",
+      "exchanges": [
+        {
+          "speaker_a": "¡Hola! Me llamo Carlos. ¿Cómo te llamas?",
+          "translation_a": "Hello! My name is Carlos. What's your name?",
+          "speaker_b": "Hola Carlos. Me llamo Ana. Mucho gusto.",
+          "translation_b": "Hello Carlos. My name is Ana. Nice to meet you."
+        },
+        {
+          "speaker_a": "Mucho gusto, Ana. ¿De dónde eres?",
+          "translation_a": "Nice to meet you, Ana. Where are you from?",
+          "speaker_b": "Soy de México. ¿Y tú?",
+          "translation_b": "I'm from Mexico. And you?"
+        },
+        {
+          "speaker_a": "Soy de España. ¿Cuánto tiempo llevas aquí?",
+          "translation_a": "I'm from Spain. How long have you been here?",
+          "speaker_b": "Llevo dos años aquí. Me gusta mucho.",
+          "translation_b": "I've been here for two years. I like it a lot."
+        },
+        {
+          "speaker_a": "¡Qué bien! Bueno, fue un placer conocerte.",
+          "translation_a": "Great! Well, it was nice meeting you.",
+          "speaker_b": "Igualmente. ¡Hasta luego!",
+          "translation_b": "Likewise. See you later!"
+        }
+      ]
+    },
+    {
+      "title": "Ordering at a Restaurant",
+      "difficulty": "beginner",
+      "exchanges": [
+        {
+          "speaker_a": "Buenas tardes. ¿Tienen una mesa para dos personas?",
+          "translation_a": "Good afternoon. Do you have a table for two people?",
+          "speaker_b": "Sí, por supuesto. Por aquí, por favor.",
+          "translation_b": "Yes, of course. This way, please."
+        },
+        {
+          "speaker_a": "Gracias. ¿Nos puede traer el menú?",
+          "translation_a": "Thank you. Can you bring us the menu?",
+          "speaker_b": "Aquí tienen. ¿Qué desean beber?",
+          "translation_b": "Here you are. What would you like to drink?"
+        },
+        {
+          "speaker_a": "Yo quiero una agua mineral, por favor.",
+          "translation_a": "I would like a mineral water, please.",
+          "speaker_b": "¿Con gas o sin gas?",
+          "translation_b": "Sparkling or still?"
+        },
+        {
+          "speaker_a": "Sin gas, por favor. Y para comer, quisiera la paella.",
+          "translation_a": "Still, please. And to eat, I would like the paella.",
+          "speaker_b": "Excelente elección. ¿Algo más?",
+          "translation_b": "Excellent choice. Anything else?"
+        },
+        {
+          "speaker_a": "No, gracias. Eso es todo por ahora.",
+          "translation_a": "No, thank you. That's all for now.",
+          "speaker_b": "Muy bien. Su orden estará lista en unos minutos.",
+          "translation_b": "Very good. Your order will be ready in a few minutes."
+        }
+      ]
+    },
+    {
+      "title": "Shopping for Clothes",
+      "difficulty": "beginner",
+      "exchanges": [
+        {
+          "speaker_a": "Buenos días. ¿En qué puedo ayudarle?",
+          "translation_a": "Good morning. How can I help you?",
+          "speaker_b": "Estoy buscando una camisa azul.",
+          "translation_b": "I'm looking for a blue shirt."
+        },
+        {
+          "speaker_a": "¿Qué talla usa usted?",
+          "translation_a": "What size do you wear?",
+          "speaker_b": "Uso la talla mediana.",
+          "translation_b": "I wear medium size."
+        },
+        {
+          "speaker_a": "Tenemos estas camisas en azul. ¿Le gustaría probarse alguna?",
+          "translation_a": "We have these shirts in blue. Would you like to try any on?",
+          "speaker_b": "Sí, me gustaría probarme esta.",
+          "translation_b": "Yes, I would like to try this one on."
+        },
+        {
+          "speaker_a": "Los probadores están al fondo a la derecha.",
+          "translation_a": "The fitting rooms are at the back on the right.",
+          "speaker_b": "Gracias. ¿Tienen esta camisa en otra talla?",
+          "translation_b": "Thank you. Do you have this shirt in another size?"
+        },
+        {
+          "speaker_a": "Déjeme verificar... Sí, la tenemos en talla grande también.",
+          "translation_a": "Let me check... Yes, we have it in large size as well.",
+          "speaker_b": "Perfecto, me llevo la talla grande. ¿Cuánto cuesta?",
+          "translation_b": "Perfect, I'll take the large size. How much is it?"
+        },
+        {
+          "speaker_a": "Son 25 euros. ¿Pagará en efectivo o con tarjeta?",
+          "translation_a": "It's 25 euros. Will you pay in cash or by card?",
+          "speaker_b": "Pagaré con tarjeta, por favor.",
+          "translation_b": "I'll pay by card, please."
+        }
+      ]
+    },
+    {
+      "title": "Asking for Directions",
+      "difficulty": "intermediate",
+      "exchanges": [
+        {
+          "speaker_a": "Disculpe, ¿sabe dónde está la estación de metro más cercana?",
+          "translation_a": "Excuse me, do you know where the nearest metro station is?",
+          "speaker_b": "Sí, está a dos cuadras de aquí. Siga derecho y gire a la izquierda en la segunda calle.",
+          "translation_b": "Yes, it's two blocks from here. Go straight and turn left at the second street."
+        },
+        {
+          "speaker_a": "Gracias. ¿Sabe qué línea va al centro de la ciudad?",
+          "translation_a": "Thank you. Do you know which line goes to the city center?",
+          "speaker_b": "Necesita tomar la línea roja, dirección Norte.",
+          "translation_b": "You need to take the red line, northbound."
+        },
+        {
+          "speaker_a": "¿Y hay algún lugar interesante para visitar cerca de aquí?",
+          "translation_a": "And is there any interesting place to visit near here?",
+          "speaker_b": "Sí, el Museo de Arte Moderno está a poca distancia. Es muy recomendable.",
+          "translation_b": "Yes, the Modern Art Museum is within walking distance. It's highly recommended."
+        },
+        {
+          "speaker_a": "¿Está abierto los domingos?",
+          "translation_a": "Is it open on Sundays?",
+          "speaker_b": "Sí, está abierto de 10 de la mañana a 6 de la tarde los domingos.",
+          "translation_b": "Yes, it's open from 10 AM to 6 PM on Sundays."
+        },
+        {
+          "speaker_a": "Perfecto. Muchas gracias por su ayuda.",
+          "translation_a": "Perfect. Thank you very much for your help.",
+          "speaker_b": "De nada. Que tenga un buen día.",
+          "translation_b": "You're welcome. Have a nice day."
+        }
+      ]
+    },
+    {
+      "title": "Making Plans with Friends",
+      "difficulty": "intermediate",
+      "exchanges": [
+        {
+          "speaker_a": "Hola María, ¿qué tal? ¿Tienes planes para este fin de semana?",
+          "translation_a": "Hi Maria, how are you? Do you have plans for this weekend?",
+          "speaker_b": "Hola Juan. No, todavía no tengo planes. ¿Por qué?",
+          "translation_b": "Hi Juan. No, I don't have plans yet. Why?"
+        },
+        {
+          "speaker_a": "Estoy organizando una pequeña reunión en mi casa el sábado. ¿Te gustaría venir?",
+          "translation_a": "I'm organizing a small gathering at my house on Saturday. Would you like to come?",
+          "speaker_b": "Suena divertido. ¿A qué hora empezará?",
+          "translation_b": "Sounds fun. What time will it start?"
+        },
+        {
+          "speaker_a": "Alrededor de las ocho de la noche. Vamos a preparar tapas y habrá música.",
+          "translation_a": "Around eight in the evening. We'll prepare tapas and there will be music.",
+          "speaker_b": "¡Genial! ¿Puedo traer algo?",
+          "translation_b": "Great! Can I bring something?"
+        },
+        {
+          "speaker_a": "Puedes traer una botella de vino o algún postre, si quieres.",
+          "translation_a": "You can bring a bottle of wine or some dessert, if you want.",
+          "speaker_b": "Perfecto, llevaré un postre. ¿Quién más va a ir?",
+          "translation_b": "Perfect, I'll bring a dessert. Who else is going?"
+        },
+        {
+          "speaker_a": "Vendrán algunos amigos del trabajo y mi primo que está de visita desde Barcelona.",
+          "translation_a": "Some friends from work will come and my cousin who is visiting from Barcelona.",
+          "speaker_b": "Suena bien. Allí estaré. Gracias por la invitación.",
+          "translation_b": "Sounds good. I'll be there. Thanks for the invitation."
+        }
+      ]
+    },
+    {
+      "title": "At the Doctor's Office",
+      "difficulty": "intermediate",
+      "exchanges": [
+        {
+          "speaker_a": "Buenos días. Tengo una cita con el Doctor Rodríguez.",
+          "translation_a": "Good morning. I have an appointment with Doctor Rodriguez.",
+          "speaker_b": "Buenos días. ¿Cuál es su nombre, por favor?",
+          "translation_b": "Good morning. What is your name, please?"
+        },
+        {
+          "speaker_a": "Me llamo Carlos Martínez.",
+          "translation_a": "My name is Carlos Martinez.",
+          "speaker_b": "Sí, aquí está. El doctor lo verá en unos minutos. Por favor, tome asiento.",
+          "translation_b": "Yes, here it is. The doctor will see you in a few minutes. Please, have a seat."
+        },
+        {
+          "speaker_a": "Gracias. ¿Necesito llenar algún formulario?",
+          "translation_a": "Thank you. Do I need to fill out any forms?",
+          "speaker_b": "Sí, por favor complete este formulario con su información médica.",
+          "translation_b": "Yes, please complete this form with your medical information."
+        },
+        {
+          "speaker_a": "Listo. Aquí tiene el formulario completo.",
+          "translation_a": "Ready. Here's the completed form.",
+          "speaker_b": "Gracias. El doctor Rodríguez lo atenderá ahora. Sígame por favor.",
+          "translation_b": "Thank you. Doctor Rodriguez will see you now. Please follow me."
+        },
+        {
+          "speaker_a": "¿Puedo hacer una pregunta? ¿Cuánto tiempo tomará la consulta?",
+          "translation_a": "Can I ask a question? How long will the consultation take?",
+          "speaker_b": "Aproximadamente 30 minutos, dependiendo de lo que necesite.",
+          "translation_b": "Approximately 30 minutes, depending on what you need."
+        }
+      ]
+    }
+  ]
+}

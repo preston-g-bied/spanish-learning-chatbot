@@ -1,0 +1,154 @@
+{
+    "countries": [
+      {
+        "name": "Spain",
+        "capital": "Madrid",
+        "language": "Spanish (Castilian)",
+        "dialects": ["Castilian", "Andalusian", "Canarian"],
+        "population": "47 million",
+        "notes": [
+          {
+            "title": "Siesta Tradition",
+            "content": "The siesta is a short nap taken in the early afternoon, usually after lunch. Traditionally, this break allowed workers to rest during the hottest part of the day. While less common in big cities today, some businesses in smaller towns still close for a few hours in the afternoon."
+          },
+          {
+            "title": "Regional Languages",
+            "content": "Besides Castilian Spanish, Spain has several co-official regional languages: Catalan, Basque (Euskara), Galician, and Valencian. Each has its own unique history and cultural significance."
+          },
+          {
+            "title": "Tapas Culture",
+            "content": "Tapas are small portions of food often served with drinks. This dining style encourages socializing and trying many different dishes. The word 'tapa' means 'cover' or 'lid' - one theory suggests they originated as small plates of food used to cover drinks to keep flies away."
+          },
+          {
+            "title": "La Tomatina Festival",
+            "content": "Held annually in the town of Buñol, La Tomatina is a festival where participants throw tomatoes at each other. The event draws thousands of visitors from around the world for this unique food fight celebration held on the last Wednesday of August."
+          },
+          {
+            "title": "Flamenco",
+            "content": "Flamenco is a passionate form of music and dance that originated in Andalusia. It involves singing (cante), guitar playing (toque), dance (baile), and handclaps (palmas). UNESCO recognized flamenco as an Intangible Cultural Heritage of Humanity in 2010."
+          }
+        ],
+        "pronunciation_differences": "Castilian Spanish is known for its distinctive 'th' sound (the 'z' and soft 'c' are pronounced like the 'th' in 'think')."
+      },
+      {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "language": "Spanish",
+        "dialects": ["Mexican Spanish"],
+        "population": "126 million",
+        "notes": [
+          {
+            "title": "Día de los Muertos",
+            "content": "The Day of the Dead is a celebration held on November 1-2 where families welcome back the souls of deceased relatives. It includes creating colorful altars (ofrendas) with photos, food, and marigold flowers to guide spirits home."
+          },
+          {
+            "title": "Indigenous Influence",
+            "content": "Mexican Spanish includes many words from indigenous languages, especially Nahuatl. Words like chocolate, tomate, and aguacate (avocado) originated from native languages and were later adopted into global Spanish and English."
+          },
+          {
+            "title": "Regional Cuisine",
+            "content": "Mexican cuisine varies greatly by region and has been recognized by UNESCO as an Intangible Cultural Heritage of Humanity. From Oaxacan mole to Yucatecan cochinita pibil, each area has distinctive dishes and techniques."
+          },
+          {
+            "title": "Mariachi Music",
+            "content": "Mariachi is a traditional style of Mexican folk music that typically features a group of musicians wearing charro outfits and playing violins, guitars, trumpets, and other instruments. It's an essential part of celebrations like birthdays, weddings, and national holidays."
+          },
+          {
+            "title": "Lucha Libre",
+            "content": "Mexican wrestling, known as Lucha Libre, is a popular form of entertainment that combines athletics with theatrical performance. Wrestlers, called luchadores, wear colorful masks and perform acrobatic moves. The mask has special significance and losing it in a match is considered a major defeat."
+          }
+        ],
+        "pronunciation_differences": "Mexican Spanish tends to be clear and evenly paced, without the 'th' sound used in Spain. The letter 's' is always pronounced as 's' rather than dropped."
+      },
+      {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "language": "Spanish",
+        "dialects": ["Colombian Andean", "Coastal/Caribbean", "Paisa"],
+        "population": "50 million",
+        "notes": [
+          {
+            "title": "Coffee Culture",
+            "content": "Colombia is world-famous for its coffee production. The Coffee Growing Axis (Eje Cafetero) is a UNESCO World Heritage site where much of the country's coffee is grown in ideal mountainous conditions."
+          },
+          {
+            "title": "Language Pride",
+            "content": "Colombian Spanish, particularly from Bogotá, is often considered one of the clearest and most 'neutral' forms of Spanish. Many call centers and Spanish dubbing studios employ Colombian speakers for their clarity and pronunciation."
+          },
+          {
+            "title": "Literary Heritage",
+            "content": "Colombia has a rich literary tradition, most famously represented by Gabriel García Márquez, who won the Nobel Prize for Literature in 1982. His novel 'One Hundred Years of Solitude' is considered a masterpiece of magical realism."
+          },
+          {
+            "title": "Cumbia Music",
+            "content": "Cumbia is a traditional Colombian music and dance style that originated on the Caribbean coast. It features a blend of indigenous, African, and European influences and has spread throughout Latin America, evolving into various regional forms."
+          },
+          {
+            "title": "Carnaval de Barranquilla",
+            "content": "The Carnival of Barranquilla is one of Colombia's most important folklore celebrations and one of the largest carnivals in the world. Recognized by UNESCO as a Cultural Heritage of Humanity, it features vibrant costumes, music, and dance traditions."
+          }
+        ],
+        "pronunciation_differences": "Colombian Spanish is known for its clear pronunciation and melodic intonation. The letter 's' is clearly pronounced rather than aspirated."
+      },
+      {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "language": "Spanish",
+        "dialects": ["Rioplatense Spanish"],
+        "population": "45 million",
+        "notes": [
+          {
+            "title": "Mate Culture",
+            "content": "Mate is a traditional South American caffeine-rich infused drink, particularly popular in Argentina. It's prepared by steeping dried leaves of yerba mate in hot water and is typically shared in social gatherings using a shared gourd and metal straw called a bombilla."
+          },
+          {
+            "title": "Tango",
+            "content": "Tango is a partner dance and musical style that originated in the working-class port neighborhoods of Buenos Aires. Known for its passion, drama, and precise movements, tango was inscribed on the UNESCO Intangible Cultural Heritage Lists in 2009."
+          },
+          {
+            "title": "Linguistic Uniqueness",
+            "content": "Argentine Spanish, especially the Rioplatense dialect, has a distinct accent and vocabulary influenced by Italian immigration. The most notable feature is 'voseo' - using 'vos' instead of 'tú' for the second person singular, with its own verb conjugations."
+          },
+          {
+            "title": "Asado Tradition",
+            "content": "Asado is Argentina's national dish and a social event centered around barbecuing. Various cuts of meat are grilled on a parilla (grill) over wood coals. The asador (grill master) is a respected position, and the gathering often lasts for hours with friends and family."
+          },
+          {
+            "title": "Football Passion",
+            "content": "Football (soccer) is more than just a sport in Argentina—it's a national passion. The country has produced legendary players like Diego Maradona and Lionel Messi, and the rivalry between clubs Boca Juniors and River Plate is one of the most intense in sports."
+          }
+        ],
+        "pronunciation_differences": "Argentine Spanish is characterized by its Italian-influenced intonation. The 'll' and 'y' sounds are pronounced with a 'sh' or 'zh' sound (called 'sheísmo' or 'zheísmo')."
+      },
+      {
+        "name": "Peru",
+        "capital": "Lima",
+        "language": "Spanish",
+        "dialects": ["Peruvian Coastal", "Andean Spanish", "Amazonic Spanish"],
+        "population": "32 million",
+        "notes": [
+          {
+            "title": "Inca Heritage",
+            "content": "Peru is home to Machu Picchu, the famous Inca citadel and UNESCO World Heritage site. The Inca Empire was the largest empire in pre-Columbian America, with advanced achievements in architecture, engineering, and agriculture."
+          },
+          {
+            "title": "Culinary Excellence",
+            "content": "Peruvian cuisine is considered among the world's finest, blending indigenous, Spanish, African, Chinese, and Japanese influences. Signature dishes include ceviche (raw fish cured in citrus), lomo saltado (stir-fried beef), and causa (layered potato dish)."
+          },
+          {
+            "title": "Quechua Language",
+            "content": "In addition to Spanish, many Peruvians speak Quechua, the language of the Incas. It remains an official language in Peru and influences Peruvian Spanish with unique vocabulary and sometimes different pronunciation patterns."
+          },
+          {
+            "title": "Nazca Lines",
+            "content": "The Nazca Lines are enormous geoglyphs carved into the desert floor in southern Peru. Created between 500 BCE and 500 CE, these mysterious figures of animals, plants, and geometric shapes are best viewed from the air and continue to intrigue archaeologists."
+          },
+          {
+            "title": "Pan Flute Music",
+            "content": "Traditional Andean music often features the pan flute (zampoña) and is immediately recognizable for its distinctive sound. This musical style reflects pre-Hispanic traditions and often accompanies important cultural celebrations and rituals."
+          }
+        ],
+        "pronunciation_differences": "Peruvian coastal Spanish is often considered clear and neutral. In Andean regions, Spanish may be influenced by Quechua phonology, with different stress patterns and vowel sounds."
+      }
+    ]
+  }

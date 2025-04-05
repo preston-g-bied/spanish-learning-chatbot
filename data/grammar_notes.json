@@ -1,0 +1,159 @@
+{
+    "topics": [
+      {
+        "name": "Gender and Articles",
+        "difficulty": "beginner",
+        "explanation": "In Spanish, all nouns have a gender (masculine or feminine). The definite articles are 'el' (masculine singular), 'la' (feminine singular), 'los' (masculine plural), and 'las' (feminine plural).",
+        "examples": [
+          {"spanish": "el libro", "english": "the book (masculine)"},
+          {"spanish": "la mesa", "english": "the table (feminine)"},
+          {"spanish": "los libros", "english": "the books (masculine plural)"},
+          {"spanish": "las mesas", "english": "the tables (feminine plural)"}
+        ],
+        "tips": [
+          "Most nouns ending in -o are masculine (el libro, el plato).",
+          "Most nouns ending in -a are feminine (la casa, la silla).",
+          "There are exceptions! For example: 'el día' (day) is masculine despite ending in -a.",
+          "Some words use 'el' even when feminine if they start with a stressed 'a' sound: 'el agua' (water) is feminine."
+        ]
+      },
+      {
+        "name": "Present Tense Conjugation",
+        "difficulty": "beginner",
+        "explanation": "Spanish verbs change their endings depending on who is performing the action. This is called conjugation. In the present tense, regular verbs follow predictable patterns based on whether they end in -ar, -er, or -ir.",
+        "examples": [
+          {"spanish": "Yo hablo español", "english": "I speak Spanish"},
+          {"spanish": "Tú hablas español", "english": "You speak Spanish"},
+          {"spanish": "Él/Ella habla español", "english": "He/She speaks Spanish"},
+          {"spanish": "Nosotros hablamos español", "english": "We speak Spanish"},
+          {"spanish": "Vosotros habláis español", "english": "You all speak Spanish (Spain)"},
+          {"spanish": "Ellos/Ellas hablan español", "english": "They speak Spanish"}
+        ],
+        "tips": [
+          "-AR verbs end with: -o, -as, -a, -amos, -áis, -an",
+          "-ER verbs end with: -o, -es, -e, -emos, -éis, -en",
+          "-IR verbs end with: -o, -es, -e, -imos, -ís, -en",
+          "Many common verbs are irregular and don't follow these patterns (ser, estar, ir, tener)."
+        ]
+      },
+      {
+        "name": "Ser vs. Estar",
+        "difficulty": "intermediate",
+        "explanation": "Spanish has two verbs for 'to be': ser and estar. Ser is used for permanent characteristics, identity, origin, and time. Estar is used for temporary conditions, locations, and certain feelings or states.",
+        "examples": [
+          {"spanish": "Yo soy estudiante", "english": "I am a student (permanent identity - ser)"},
+          {"spanish": "Yo estoy cansado", "english": "I am tired (temporary condition - estar)"},
+          {"spanish": "La casa es grande", "english": "The house is big (permanent characteristic - ser)"},
+          {"spanish": "La casa está limpia", "english": "The house is clean (state/condition - estar)"}
+        ],
+        "tips": [
+          "Use SER for: Identity, Characteristics, Origin, Time, Relationships, Possession",
+          "Use ESTAR for: Location, Temporary Conditions, Ongoing Actions (with present participle)",
+          "Some adjectives change meaning depending on whether they're used with ser or estar!",
+          "Example: 'Ser aburrido' = to be boring (personality), 'Estar aburrido' = to be bored (feeling)"
+        ]
+      },
+      {
+        "name": "Past Tenses: Preterite vs. Imperfect",
+        "difficulty": "intermediate",
+        "explanation": "Spanish has two main past tenses: the preterite (for completed actions) and the imperfect (for ongoing or habitual past actions).",
+        "examples": [
+          {"spanish": "Comí una manzana", "english": "I ate an apple (completed action - preterite)"},
+          {"spanish": "Comía una manzana todos los días", "english": "I used to eat an apple every day (habitual action - imperfect)"},
+          {"spanish": "Estudié durante dos horas", "english": "I studied for two hours (completed action - preterite)"},
+          {"spanish": "Estudiaba cuando sonó el teléfono", "english": "I was studying when the phone rang (ongoing action - imperfect)"}
+        ],
+        "tips": [
+          "Use the preterite for actions with a clear beginning and end.",
+          "Use the imperfect for descriptions, habitual actions, or ongoing states in the past.",
+          "Think of the preterite as a 'snapshot' and the imperfect as a 'video' of the past.",
+          "Both tenses often appear together in storytelling, with the preterite advancing the plot and the imperfect providing context."
+        ]
+      },
+      {
+        "name": "Direct and Indirect Object Pronouns",
+        "difficulty": "intermediate",
+        "explanation": "Direct object pronouns replace the direct recipient of an action (what/who receives the action). Indirect object pronouns replace the indirect recipient (to/for whom the action is done).",
+        "examples": [
+          {"spanish": "Yo veo la película → Yo la veo", "english": "I see the movie → I see it (direct object)"},
+          {"spanish": "Yo le doy el libro a Juan → Yo le doy el libro", "english": "I give the book to Juan → I give him the book (indirect object)"},
+          {"spanish": "Yo te mando un mensaje", "english": "I send you a message (te = indirect object)"},
+          {"spanish": "Se lo doy", "english": "I give it to him/her/you (formal) (se = indirect, lo = direct)"}
+        ],
+        "tips": [
+          "Direct object pronouns: me, te, lo/la, nos, os, los/las",
+          "Indirect object pronouns: me, te, le, nos, os, les",
+          "When both appear together, the indirect object comes before the direct object.",
+          "When le/les is followed by lo/la/los/las, le/les changes to se."
+        ]
+      },
+      {
+        "name": "Reflexive Verbs",
+        "difficulty": "intermediate",
+        "explanation": "Reflexive verbs indicate that the subject performs an action on itself. They are conjugated with reflexive pronouns (me, te, se, nos, os, se) that match the subject.",
+        "examples": [
+          {"spanish": "Yo me lavo las manos", "english": "I wash my hands (literally: I wash myself the hands)"},
+          {"spanish": "Tú te peinas", "english": "You comb your hair (literally: You comb yourself)"},
+          {"spanish": "Ella se despierta temprano", "english": "She wakes up early (literally: She wakes herself up early)"},
+          {"spanish": "Nosotros nos acostamos a las diez", "english": "We go to bed at ten (literally: We put ourselves to bed at ten)"}
+        ],
+        "tips": [
+          "Reflexive pronouns come before conjugated verbs: 'Me lavo'.",
+          "With infinitives, the pronoun can be attached: 'Quiero lavarme'.",
+          "Many daily routine verbs are reflexive in Spanish but not in English.",
+          "Some verbs change meaning when used reflexively: 'ir' (to go) vs. 'irse' (to leave)."
+        ]
+      },
+      {
+        "name": "Subjunctive Mood",
+        "difficulty": "advanced",
+        "explanation": "The subjunctive mood is used to express wishes, doubts, possibilities, emotions, and recommendations. It contrasts with the indicative mood, which expresses facts and certainties.",
+        "examples": [
+          {"spanish": "Espero que vengas", "english": "I hope that you come (subjunctive)"},
+          {"spanish": "No creo que sea difícil", "english": "I don't think it's difficult (subjunctive)"},
+          {"spanish": "Quiero que me ayudes", "english": "I want you to help me (subjunctive)"},
+          {"spanish": "Es importante que estudiemos", "english": "It's important that we study (subjunctive)"}
+        ],
+        "tips": [
+          "The subjunctive often follows phrases like: 'esperar que', 'querer que', 'dudar que', 'recomendar que'.",
+          "W.E.I.R.D.O.: Wishes, Emotions, Impersonal expressions, Recommendations, Doubt/Denial, Ojalá (common triggers).",
+          "The subjunctive appears in the dependent clause after 'que', not in the main clause.",
+          "If both clauses have the same subject, subjunctive is usually not needed: 'Quiero ir' (not 'Quiero que yo vaya')."
+        ]
+      },
+      {
+        "name": "Commands (Imperatives)",
+        "difficulty": "intermediate",
+        "explanation": "Commands or imperatives are used to give orders or instructions. Spanish has different forms for formal and informal commands, as well as for positive and negative commands.",
+        "examples": [
+          {"spanish": "¡Habla más despacio!", "english": "Speak more slowly! (informal, positive)"},
+          {"spanish": "No hables tan rápido", "english": "Don't speak so fast (informal, negative)"},
+          {"spanish": "Hable con el gerente, por favor", "english": "Speak with the manager, please (formal, positive)"},
+          {"spanish": "No coma en esta sala", "english": "Don't eat in this room (formal, negative)"}
+        ],
+        "tips": [
+          "Informal positive commands (tú): Use the él/ella form of present indicative (except for irregular verbs).",
+          "Informal negative commands (tú): Use the tú form of present subjunctive.",
+          "Formal commands (usted/ustedes): Use the corresponding subjunctive forms.",
+          "Pronoun placement: For positive commands, pronouns are attached to the end. For negative commands, pronouns go before the verb."
+        ]
+      },
+      {
+        "name": "Conditional Tense",
+        "difficulty": "advanced",
+        "explanation": "The conditional tense is used to express what would happen under certain circumstances, make polite requests, or talk about hypothetical situations.",
+        "examples": [
+          {"spanish": "Yo iría contigo si pudiera", "english": "I would go with you if I could"},
+          {"spanish": "¿Podrías ayudarme?", "english": "Could you help me? (polite request)"},
+          {"spanish": "Me gustaría un café, por favor", "english": "I would like a coffee, please"},
+          {"spanish": "¿Qué harías en mi situación?", "english": "What would you do in my situation?"}
+        ],
+        "tips": [
+          "Form the conditional by adding these endings to the infinitive: -ía, -ías, -ía, -íamos, -íais, -ían.",
+          "Irregular stems are the same as for the future tense (haber → habr-, poder → podr-, etc.).",
+          "Often used with 'si' (if) clauses to discuss hypothetical situations.",
+          "Can be used to express probability in the past: 'Serían las tres cuando llegó' (It must have been around three when he arrived)."
+        ]
+      }
+    ]
+  }

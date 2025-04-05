@@ -1,127 +1,280 @@
 {
-    "categories": [
-      {
-        "name": "greetings",
-        "display_name": "Greetings",
-        "words": [
-          {
-            "spanish": "Hola",
-            "english": "Hello",
-            "example": "¡Hola! ¿Cómo estás?",
-            "example_translation": "Hello! How are you?",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Buenos días",
-            "english": "Good morning",
-            "example": "Buenos días, ¿cómo amaneció?",
-            "example_translation": "Good morning, how did you wake up?",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Buenas tardes",
-            "english": "Good afternoon",
-            "example": "Buenas tardes a todos",
-            "example_translation": "Good afternoon everyone",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Buenas noches",
-            "english": "Good evening/night",
-            "example": "Buenas noches, hasta mañana",
-            "example_translation": "Good night, see you tomorrow",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Adiós",
-            "english": "Goodbye",
-            "example": "Adiós, cuídate mucho",
-            "example_translation": "Goodbye, take care",
-            "difficulty": "beginner"
-          }
-        ]
-      },
-      {
-        "name": "common_phrases",
-        "display_name": "Common Phrases",
-        "words": [
-          {
-            "spanish": "Por favor",
-            "english": "Please",
-            "example": "Un café, por favor",
-            "example_translation": "A coffee, please",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Gracias",
-            "english": "Thank you",
-            "example": "Muchas gracias por tu ayuda",
-            "example_translation": "Thank you very much for your help",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "De nada",
-            "english": "You're welcome",
-            "example": "No hay problema, de nada",
-            "example_translation": "No problem, you're welcome",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Lo siento",
-            "english": "I'm sorry",
-            "example": "Lo siento, llegué tarde",
-            "example_translation": "I'm sorry, I arrived late",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "No entiendo",
-            "english": "I don't understand",
-            "example": "Lo siento, no entiendo. ¿Puede repetir?",
-            "example_translation": "Sorry, I don't understand. Can you repeat?",
-            "difficulty": "beginner"
-          }
-        ]
-      },
-      {
-        "name": "food",
-        "display_name": "Food",
-        "words": [
-          {
-            "spanish": "Agua",
-            "english": "Water",
-            "example": "Un vaso de agua, por favor",
-            "example_translation": "A glass of water, please",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Pan",
-            "english": "Bread",
-            "example": "Me gusta el pan fresco",
-            "example_translation": "I like fresh bread",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Queso",
-            "english": "Cheese",
-            "example": "El queso español es muy bueno",
-            "example_translation": "Spanish cheese is very good",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Manzana",
-            "english": "Apple",
-            "example": "Como una manzana cada día",
-            "example_translation": "I eat an apple every day",
-            "difficulty": "beginner"
-          },
-          {
-            "spanish": "Pollo",
-            "english": "Chicken",
-            "example": "El pollo con patatas está delicioso",
-            "example_translation": "The chicken with potatoes is delicious",
-            "difficulty": "beginner"
-          }
-        ]
-      }
-    ]
-  }
+  "categories": [
+    {
+      "name": "greetings",
+      "display_name": "Greetings",
+      "words": [
+        {
+          "spanish": "Hola",
+          "english": "Hello",
+          "example": "¡Hola! ¿Cómo estás?",
+          "example_translation": "Hello! How are you?",
+          "difficulty": "beginner",
+          "pronunciation_tip": "OH-lah - The 'h' is silent in Spanish."
+        },
+        {
+          "spanish": "Buenos días",
+          "english": "Good morning",
+          "example": "Buenos días, ¿cómo amaneció?",
+          "example_translation": "Good morning, how did you wake up?",
+          "difficulty": "beginner",
+          "pronunciation_tip": "BWEH-nohs DEE-ahs - The 'í' has a stress."
+        },
+        {
+          "spanish": "Buenas tardes",
+          "english": "Good afternoon",
+          "example": "Buenas tardes a todos",
+          "example_translation": "Good afternoon everyone",
+          "difficulty": "beginner",
+          "pronunciation_tip": "BWEH-nahs TAR-dehs - Roll the 'r' slightly."
+        },
+        {
+          "spanish": "Buenas noches",
+          "english": "Good evening/night",
+          "example": "Buenas noches, hasta mañana",
+          "example_translation": "Good night, see you tomorrow",
+          "difficulty": "beginner",
+          "pronunciation_tip": "BWEH-nahs NO-chehs - The 'ch' sounds like in 'cheese'."
+        },
+        {
+          "spanish": "Adiós",
+          "english": "Goodbye",
+          "example": "Adiós, cuídate mucho",
+          "example_translation": "Goodbye, take care",
+          "difficulty": "beginner",
+          "pronunciation_tip": "ah-DYOHS - The stress is on the second syllable."
+        }
+      ]
+    },
+    {
+      "name": "common_phrases",
+      "display_name": "Common Phrases",
+      "words": [
+        {
+          "spanish": "Por favor",
+          "english": "Please",
+          "example": "Un café, por favor",
+          "example_translation": "A coffee, please",
+          "difficulty": "beginner",
+          "pronunciation_tip": "pohr fah-BOHR - The 'v' sounds like a soft 'b'."
+        },
+        {
+          "spanish": "Gracias",
+          "english": "Thank you",
+          "example": "Muchas gracias por tu ayuda",
+          "example_translation": "Thank you very much for your help",
+          "difficulty": "beginner",
+          "pronunciation_tip": "GRAH-syahs - The 'c' before 'i' and 'e' sounds like 's' in Latin America or 'th' in Spain."
+        },
+        {
+          "spanish": "De nada",
+          "english": "You're welcome",
+          "example": "No hay problema, de nada",
+          "example_translation": "No problem, you're welcome",
+          "difficulty": "beginner",
+          "pronunciation_tip": "deh NAH-dah - Both 'd's are softer than in English."
+        },
+        {
+          "spanish": "Lo siento",
+          "english": "I'm sorry",
+          "example": "Lo siento, llegué tarde",
+          "example_translation": "I'm sorry, I arrived late",
+          "difficulty": "beginner",
+          "pronunciation_tip": "loh SYEHN-toh - The 'i' in 'siento' forms a single syllable with the 'e'."
+        },
+        {
+          "spanish": "No entiendo",
+          "english": "I don't understand",
+          "example": "Lo siento, no entiendo. ¿Puede repetir?",
+          "example_translation": "Sorry, I don't understand. Can you repeat?",
+          "difficulty": "beginner",
+          "pronunciation_tip": "noh ehn-TYEHN-doh - The 'i' and 'e' combine to form a single sound."
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "display_name": "Food",
+      "words": [
+        {
+          "spanish": "Agua",
+          "english": "Water",
+          "example": "Un vaso de agua, por favor",
+          "example_translation": "A glass of water, please",
+          "difficulty": "beginner",
+          "pronunciation_tip": "AH-gwah - The 'g' sounds like in 'guest'."
+        },
+        {
+          "spanish": "Pan",
+          "english": "Bread",
+          "example": "Me gusta el pan fresco",
+          "example_translation": "I like fresh bread",
+          "difficulty": "beginner",
+          "pronunciation_tip": "pahn - The 'n' at the end is pronounced clearly."
+        },
+        {
+          "spanish": "Queso",
+          "english": "Cheese",
+          "example": "El queso español es muy bueno",
+          "example_translation": "Spanish cheese is very good",
+          "difficulty": "beginner",
+          "pronunciation_tip": "KEH-soh - The 'qu' sounds like 'k'."
+        },
+        {
+          "spanish": "Manzana",
+          "english": "Apple",
+          "example": "Como una manzana cada día",
+          "example_translation": "I eat an apple every day",
+          "difficulty": "beginner",
+          "pronunciation_tip": "mahn-SAH-nah - The 'z' sounds like 's'."
+        },
+        {
+          "spanish": "Pollo",
+          "english": "Chicken",
+          "example": "El pollo con patatas está delicioso",
+          "example_translation": "The chicken with potatoes is delicious",
+          "difficulty": "beginner",
+          "pronunciation_tip": "POH-yoh - The 'll' sounds like 'y' in 'yes'."
+        }
+      ]
+    },
+    {
+      "name": "numbers",
+      "display_name": "Numbers",
+      "words": [
+        {
+          "spanish": "Uno",
+          "english": "One",
+          "example": "Necesito uno más",
+          "example_translation": "I need one more",
+          "difficulty": "beginner",
+          "pronunciation_tip": "OO-noh - The 'u' sounds like 'oo' in 'boot'."
+        },
+        {
+          "spanish": "Dos",
+          "english": "Two",
+          "example": "Tengo dos hermanos",
+          "example_translation": "I have two brothers",
+          "difficulty": "beginner",
+          "pronunciation_tip": "dohs - The 's' at the end is pronounced clearly."
+        },
+        {
+          "spanish": "Tres",
+          "english": "Three",
+          "example": "Son las tres de la tarde",
+          "example_translation": "It's three in the afternoon",
+          "difficulty": "beginner",
+          "pronunciation_tip": "trehs - Roll the 'r' lightly."
+        },
+        {
+          "spanish": "Cuatro",
+          "english": "Four",
+          "example": "Hay cuatro sillas",
+          "example_translation": "There are four chairs",
+          "difficulty": "beginner",
+          "pronunciation_tip": "KWAH-troh - The 'c' and 'u' together make a 'kw' sound."
+        },
+        {
+          "spanish": "Cinco",
+          "english": "Five",
+          "example": "Llegaré en cinco minutos",
+          "example_translation": "I'll arrive in five minutes",
+          "difficulty": "beginner",
+          "pronunciation_tip": "SEEN-koh - The 'c' sounds like 'k'."
+        }
+      ]
+    },
+    {
+      "name": "colors",
+      "display_name": "Colors",
+      "words": [
+        {
+          "spanish": "Rojo",
+          "english": "Red",
+          "example": "Mi coche es rojo",
+          "example_translation": "My car is red",
+          "difficulty": "beginner",
+          "pronunciation_tip": "ROH-hoh - The 'j' sounds like a strong 'h'."
+        },
+        {
+          "spanish": "Azul",
+          "english": "Blue",
+          "example": "El cielo es azul",
+          "example_translation": "The sky is blue",
+          "difficulty": "beginner",
+          "pronunciation_tip": "ah-SOOL - The stress is on the second syllable."
+        },
+        {
+          "spanish": "Verde",
+          "english": "Green",
+          "example": "Me gusta el color verde",
+          "example_translation": "I like the color green",
+          "difficulty": "beginner",
+          "pronunciation_tip": "BEHR-deh - The 'v' sounds like a soft 'b'."
+        },
+        {
+          "spanish": "Amarillo",
+          "english": "Yellow",
+          "example": "El sol es amarillo",
+          "example_translation": "The sun is yellow",
+          "difficulty": "beginner",
+          "pronunciation_tip": "ah-mah-REE-yoh - The 'll' sounds like 'y'."
+        },
+        {
+          "spanish": "Negro",
+          "english": "Black",
+          "example": "Tengo un gato negro",
+          "example_translation": "I have a black cat",
+          "difficulty": "beginner",
+          "pronunciation_tip": "NEH-groh - The 'g' is pronounced like in 'go'."
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "display_name": "Family",
+      "words": [
+        {
+          "spanish": "Madre",
+          "english": "Mother",
+          "example": "Mi madre es doctora",
+          "example_translation": "My mother is a doctor",
+          "difficulty": "beginner",
+          "pronunciation_tip": "MAH-dreh - Roll the 'r' slightly."
+        },
+        {
+          "spanish": "Padre",
+          "english": "Father",
+          "example": "Mi padre trabaja en un banco",
+          "example_translation": "My father works in a bank",
+          "difficulty": "beginner",
+          "pronunciation_tip": "PAH-dreh - The 'd' is softer than in English."
+        },
+        {
+          "spanish": "Hermano",
+          "english": "Brother",
+          "example": "Mi hermano es mayor que yo",
+          "example_translation": "My brother is older than me",
+          "difficulty": "beginner",
+          "pronunciation_tip": "ehr-MAH-noh - The 'h' is silent."
+        },
+        {
+          "spanish": "Hermana",
+          "english": "Sister",
+          "example": "Mi hermana estudia medicina",
+          "example_translation": "My sister studies medicine",
+          "difficulty": "beginner",
+          "pronunciation_tip": "ehr-MAH-nah - The stress is on the second syllable."
+        },
+        {
+          "spanish": "Hijo",
+          "english": "Son",
+          "example": "Su hijo tiene cinco años",
+          "example_translation": "His/Her son is five years old",
+          "difficulty": "beginner",
+          "pronunciation_tip": "EE-hoh - The 'h' sounds like a strong 'h'."
+        }
+      ]
+    }
+  ]
+}
