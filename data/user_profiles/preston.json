@@ -1,0 +1,28 @@
+{
+  "name": "Preston",
+  "created_at": "2025-04-05T16:59:21.460202",
+  "last_login": "2025-04-05T16:59:21.460572",
+  "statistics": {
+    "quizzes_taken": 0,
+    "flashcards_practiced": 0,
+    "conversations_practiced": 0,
+    "total_score": 0,
+    "quiz_history": []
+  },
+  "mastered_words": {},
+  "custom_vocabulary": [],
+  "last_word_of_day": "2025-04-05",
+  "word_of_day_history": [
+    {
+      "spanish": "Buenas noches",
+      "english": "Good evening/night",
+      "example": "Buenas noches, hasta mañana",
+      "example_translation": "Good night, see you tomorrow",
+      "difficulty": "beginner",
+      "pronunciation_tip": "BWEH-nahs NO-chehs - The 'ch' sounds like in 'cheese'.",
+      "category_name": "greetings",
+      "category_display": "Greetings",
+      "date": "2025-04-05"
+    }
+  ]
+}
